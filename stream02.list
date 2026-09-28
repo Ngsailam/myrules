@@ -1,4 +1,5 @@
+# stream02
 # panda
-DOMAIN-SUFFIX,ct.pdtvs.com
-DOMAIN-SUFFIX,cu.pdtvs.com
-DOMAIN-SUFFIX,cm.pdtvs.com
+DOMAIN,ct.pdtvs.com
+DOMAIN,cu.pdtvs.com
+DOMAIN,cm.pdtvs.com
